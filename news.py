@@ -1,3 +1,5 @@
+#crawling news data from invest.com with csv file
+
 import random
 import urllib.request
 import urllib.parse
