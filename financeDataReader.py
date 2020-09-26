@@ -1,3 +1,5 @@
+#financedatareader is open source library
+
 # import FinanceDataReader as fdr
 # import numpy as np
 # import pandas as pd
